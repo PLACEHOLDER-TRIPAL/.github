@@ -1,6 +1,4 @@
-# PLACEHOLDER TRIPAL
-
-PLACEHOLDER TRIPAL is a collection of Tripal extension packages focused on providing intuitive data management support for breeding and pre-breeding activities to help you to
+Tripal Cultivate is a collection of Tripal extension packages focused on providing intuitive data management support for breeding and pre-breeding activities to help you to
 
 - Diversify your crossing block with intuitive germplasm search form integrating passport, phenotypic and genotypic data.
 - Streamline project management and easily incorporate pre-breeding data into your breeding workflow with a shared platform.
